@@ -1,0 +1,7 @@
+[tool.streamlit]
+browser.serverport = 8501
+browser.gatherUsageStats = false
+
+[server]
+headless = true
+port = 8501
